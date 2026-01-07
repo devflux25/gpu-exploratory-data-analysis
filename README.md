@@ -1,4 +1,4 @@
-# gpu-exploratory-data-analysis
+# Gpu-exploratory-data-analysis
 Exploratory data analysis of GPU specifications (1986–2026) focusing on performance, memory, and power trade-offs.
 Project Overview
 
