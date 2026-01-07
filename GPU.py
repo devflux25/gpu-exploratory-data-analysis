@@ -6,7 +6,7 @@ import warnings as wr
 import re
 wr.filterwarnings('ignore')
 
-path = r"C:\Users\Kairav\OneDrive\Desktop\archive (2)\gpu_1986-2026.csv"
+path = r""
 df  = pd.read_csv(path)
 print(df.head())
 print("\n")
@@ -121,4 +121,5 @@ plt.xlim(0,1500)
 plt.ylabel('VRAM (GB)')
 plt.xlabel('TDP (W)')
 plt.show()
+
 
